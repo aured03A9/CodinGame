@@ -1,6 +1,11 @@
 SINGLE PLAYER
 =============
 
+TUTORIAL
+--------
+
+- [x] Onboarding
+
 EASY
 ----
 
