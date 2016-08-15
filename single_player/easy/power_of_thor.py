@@ -1,20 +1,18 @@
-"""Power of Thor
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-Description:
+"""Power of Thor - Episode 1
 
-Thor's hammer, Mjöllnir has lost all of its powers... Will you be able
-to guide Thor towards the light of power to make the hammer whole again?
+The Goal:
 
-Topic: condition statements (if...).
+Your program must allow Thor to reach the light of power.
 """
 
 import sys
 import math
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-# ---
-# Hint: You can use the debug stream to print initialTX and initialTY, if Thor seems not follow your orders.
+# Hint: You can use the debug stream to print initialTX and initialTY,
+# if Thor seems not follow your orders.
 
 # light_x: the X position of the light of power
 # light_y: the Y position of the light of power
@@ -27,13 +25,10 @@ thor_y = initial_ty
 
 # game loop
 while 1:
-    remaining_turns = int(input())  # The remaining amount of turns Thor can move. Do not remove this line.
-
-    # Write an action using print
-    # To debug: print("Debug messages...", file=sys.stderr)
+    # The remaining amount of turns Thor can move.
+    remaining_turns = int(input())
 
     # A single line providing the move to be made: N NE E SE S SW W or NW
-
     if thor_x > light_x:
         direction_x = "W"
         thor_x -= 1
