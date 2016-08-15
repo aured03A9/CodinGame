@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 """The Descent
 
 Description:
@@ -13,17 +16,15 @@ Topic: search in an array
 import sys
 import math
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
+mountain = {}
 
-
-# game loop
 while True:
     for i in range(8):
-        mountain_h = int(input())  # represents the height of one mountain, from 9 to 0.
+        # represents the height of one mountain, from 9 to 0.
+        mountain_h = int(input())
+        mountain[i] = mountain_h
 
-    # Write an action using print
-    # To debug: print("Debug messages...", file=sys.stderr)
+    sorted_mountain = sorted(mountain, key=mountain.get, reverse=True)
 
-    # The number of the mountain to fire on.
-    print("4")
+    # The index of the mountain to fire on.
+    print(sorted_mountain[0])
