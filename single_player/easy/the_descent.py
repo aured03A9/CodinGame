@@ -3,14 +3,10 @@
 
 """The Descent
 
-Description:
+The Goal:
 
-The enterprise is in danger: drawn towards the surface of an unknown
-planet, it is at risk of crashing against towering mountains.
-
-Help Kirk and Spock destroy the mountains... Save the enterprise!
-
-Topic: search in an array
+Destroy the mountains before your starship collides with one of them.
+For that, shoot the highest mountain on your path.
 """
 
 import sys
