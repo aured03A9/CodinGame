@@ -13,7 +13,7 @@ EASY
 - [x] Power of Thor - Episode 1
 - [x] The Bridge - Episode 1 (Skynet: the Chasm)
 - [ ] Mars Lander - Level 1
-- [ ] Temperatures
+- [x] Temperatures
 - [ ] ASCII Art
 - [ ] Chuck Norris
 - [ ] MIME Type
