@@ -12,7 +12,7 @@ EASY
 - [x] The Descent
 - [x] Power of Thor - Episode 1
 - [x] The Bridge - Episode 1 (Skynet: the Chasm)
-- [ ] Mars Lander - Level 1
+- [x] Mars Lander - Level 1
 - [x] Temperatures
 - [ ] ASCII Art
 - [ ] Chuck Norris
