@@ -10,7 +10,7 @@
 - [x] [Temperatures](training/easy/temperatures.py)
 - [x] [ASCII Art](training/easy/ascii-art.py)
 - [x] [Chuck Norris](training/easy/chuck-norris.py)
-- [ ] MIME Type
+- [x] [MIME Type](training/easy/mime-type.py)
 - [ ] Defibrillators
 - [ ] Horse-racing Duals
 
