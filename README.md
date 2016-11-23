@@ -12,7 +12,7 @@
 - [x] [Chuck Norris](training/easy/chuck-norris.py)
 - [x] [MIME Type](training/easy/mime-type.py)
 - [x] [Defibrillators](training/easy/defibrillators.py)
-- [ ] Horse-racing Duals
+- [x] [Horse-racing Duals](training/easy/horse-racing-duals.py)
 
 ## Classic Puzzle - Medium
 
