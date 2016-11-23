@@ -9,7 +9,7 @@
 - [x] [Mars Lander - Episode 1](training/easy/mars-lander-episode-1.py)
 - [x] [Temperatures](training/easy/temperatures.py)
 - [x] [ASCII Art](training/easy/ascii-art.py)
-- [ ] Chuck Norris
+- [x] [Chuck Norris](training/easy/chuck-norris.py)
 - [ ] MIME Type
 - [ ] Defibrillators
 - [ ] Horse-racing Duals
