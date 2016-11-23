@@ -9,7 +9,7 @@
 - [x] [The Descent](training/easy/the-descent.py)
 - [x] [Power of Thor - Episode 1](training/easy/power-of-thor-episode-1.py)
 - [x] ~~[The Bridge - Episode 1 (Skynet: the Chasm)](training/easy/the-bridge-episode-1.py)~~
-- [x] [Mars Lander - Level 1](training/easy/mars-lander-episode-1.py)
+- [x] [Mars Lander - Episode 1](training/easy/mars-lander-episode-1.py)
 - [x] [Temperatures](training/easy/temperatures.py)
 - [ ] ASCII Art
 - [ ] Chuck Norris
