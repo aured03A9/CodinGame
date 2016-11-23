@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-
-# Strongly inspired by kiwijam's code
-
 l = int(input())
 h = int(input())
 t = input().upper()
