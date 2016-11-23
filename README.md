@@ -11,7 +11,7 @@
 - [x] [ASCII Art](training/easy/ascii-art.py)
 - [x] [Chuck Norris](training/easy/chuck-norris.py)
 - [x] [MIME Type](training/easy/mime-type.py)
-- [ ] Defibrillators
+- [x] [Defibrillators](training/easy/defibrillators.py)
 - [ ] Horse-racing Duals
 
 ## Classic Puzzle - Medium
