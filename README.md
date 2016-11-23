@@ -1,11 +1,8 @@
-# SINGLE PLAYER
+# Training
 
-## TUTORIAL
+## Classic Puzzle - Easy
 
 - [x] [Onboarding](training/easy/onboarding.py)
-
-## EASY
-
 - [x] [The Descent](training/easy/the-descent.py)
 - [x] [Power of Thor - Episode 1](training/easy/power-of-thor-episode-1.py)
 - [x] ~~[The Bridge - Episode 1 (Skynet: the Chasm)](training/easy/the-bridge-episode-1.py)~~
@@ -17,22 +14,21 @@
 - [ ] Defibrillators
 - [ ] Horse-racing Duals
 
-## MEDIUM
+## Classic Puzzle - Medium
 
-- [ ] APU: Init Phase
-- [ ] Skynet: the Virus
-- [ ] Winamax Sponsored Contest
-- [ ] Teads Sponsored Contest
-- [ ] Heat Detector
-- [ ] The Paranoid Android
-- [ ] Mars Lander - Level 2
+- [ ] There is no Spoon - Episode 1
+- [ ] Skynet Revolution - Episode 1
+- [ ] Shadows of the Knight - Episode 1
+- [ ] Don't Panic - Episode 1
+- [ ] Mars Lander - Episode 2
 - [ ] Stock Exchange Losses
-- [ ] Indiana - Level 1
+- [ ] The Last Crusade - Episode 1
+- [ ] Teads Sponsored Contest
 - [ ] Network Cabling
 - [ ] Conway Sequence
 - [ ] Telephone Numbers
 - [ ] Dwarfs standing on the shoulders of giants
-- [ ] Bender, a depressed robot
+- [ ] Bender - Episode 1
 - [ ] Scrabble
 - [ ] The Gift
 - [ ] Mayan Calculation
