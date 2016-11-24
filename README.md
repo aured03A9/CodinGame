@@ -16,7 +16,7 @@
 
 ## Classic Puzzle - Medium
 
-- [ ] There is no Spoon - Episode 1
+- [x] [There is no Spoon - Episode 1](training/medium/there-is-no-spoon-episode-1.py)
 - [ ] Skynet Revolution - Episode 1
 - [ ] Shadows of the Knight - Episode 1
 - [ ] Don't Panic - Episode 1
